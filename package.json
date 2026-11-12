@@ -1,0 +1,12 @@
+{
+  "name": "winning",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9",
+    "web-push": "^4.0.0"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^6.1.1"
+  }
+}
